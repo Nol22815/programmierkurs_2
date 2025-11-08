@@ -1,4 +1,5 @@
 #include <stdlib.h>
+#include <stdio.h>
 
 typedef struct List_element {
   int value;
@@ -6,7 +7,7 @@ typedef struct List_element {
 } List_element;
 
 int push(int value, List_element **head) {        // <-- Übergabe als Pointer auf Pointer nötig!
-  List_element *element = (List_element *)malloc(sizeof(List_element));
+  List_element *element = malloc(sizeof(List_element));
   if (element != NULL) {
     element->value = value;
     element->next = NULL;
