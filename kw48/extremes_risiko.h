@@ -12,4 +12,5 @@ public:
   Extremes_Risiko();
   virtual ~Extremes_Risiko();
   virtual float berechne_rückstellung() override;
+  void drucke_daten() override;
 };

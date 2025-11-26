@@ -8,10 +8,13 @@
 
 class Inakzeptables_Risiko : Risiko {
 private:
-  string maßnahme;
+  string massnahme;
 public:
   Inakzeptables_Risiko();
   virtual ~Inakzeptables_Risiko();
   virtual float berechne_rückstellung() override;
   void drucke_daten() override;
+  string get_massname(){
+    return massnahme;
+  }
 };
