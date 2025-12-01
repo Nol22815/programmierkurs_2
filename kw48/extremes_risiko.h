@@ -3,8 +3,6 @@
 
 #include "inakzeptables_risiko.h"
 
-#endif // !EXTREMES_RISIKO_H_
-
 class Extremes_Risiko: Inakzeptables_Risiko {
 private:
   float versicherungsbeitrag;
@@ -14,3 +12,5 @@ public:
   virtual float berechne_rückstellung() override;
   void drucke_daten() override;
 };
+
+#endif

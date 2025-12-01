@@ -8,5 +8,5 @@ float Inakzeptables_Risiko::berechne_rückstellung() {
 }
 
 void Inakzeptables_Risiko::drucke_daten(){
-  cout<< "Id" << get_id() << "Akzeptables Risiko \" " << get_bezeichnung() << "\" aus " << get_erstellungs_datum() << "\n" << " Risikowert " << berechne_risikowert() << "; Rückstellung " << berechne_rückstellung() << endl;
+  cout<< "Id" << get_id() << "Inakzeptables Risiko \" " << get_bezeichnung() << "\" aus " << get_erstellungs_datum() << "\n" << " Risikowert " << berechne_risikowert() << "; Rückstellung " << berechne_rückstellung() <<"; Maßnahme" << get_massname()<< endl;
 }

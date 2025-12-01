@@ -3,8 +3,6 @@
 
 #include <string>
 
-#endif // !
-
 using namespace std;
 
 class Risiko {
@@ -36,3 +34,5 @@ public:
     return erstellungs_datum;
   }
 };
+
+#endif

@@ -4,8 +4,6 @@
 #include <string>
 #include "risiko.h"
 
-#endif // !INAKZEPTABLES_RISIKO_H_
-
 class Inakzeptables_Risiko : Risiko {
 private:
   string massnahme;
@@ -18,3 +16,5 @@ public:
     return massnahme;
   }
 };
+
+#endif
