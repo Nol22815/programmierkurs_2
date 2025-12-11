@@ -7,8 +7,8 @@
 using namespace std;
 using namespace fhdo_pk2;
 
-void ausgabe(const char* text){
-std::cout << text << std::endl;
+void ausgabe(Risiko* t){
+  t->druckeDaten();
 }
 // Test der LinkedList-Klasse
 int main(){
@@ -16,5 +16,7 @@ int main(){
   liste.append(new AkzeptablesRisiko("AkzeptablesRisiko", 0.1f, 0.2f));
   liste.append(new ExtremesRisiko("ExtremesRisiko", 0.3f, 0.4f, "Nachricht", 0.44f));
   liste.append(new InakzeptablesRisiko("InakzeptablesRisiko", 0.5f, 0.6f, "Nachricht"));
+
+  liste.visit_all(ausgabe);
   return 0;
 }

@@ -4,7 +4,7 @@ template <typename T>
 class Linked_List {
 private:
   struct List_element {
-    const char* content;
+    T content;
     List_element *next = nullptr;
   };
   List_element *head = nullptr;
