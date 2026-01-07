@@ -1,0 +1,15 @@
+/Users/noel.goebbeler/uni/programmierkurs_2/kw02/cs/obj/Debug/net10.0/cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noel.goebbeler/uni/programmierkurs_2/kw02/cs/obj/Debug/net10.0/cs.AssemblyInfoInputs.cache
+/Users/noel.goebbeler/uni/programmierkurs_2/kw02/cs/obj/Debug/net10.0/cs.AssemblyInfo.cs
+/Users/noel.goebbeler/uni/programmierkurs_2/kw02/cs/obj/Debug/net10.0/cs.csproj.CoreCompileInputs.cache
+/Users/noel.goebbeler/uni/programmierkurs_2/kw02/cs/obj/Debug/net10.0/cs.sourcelink.json
+/Users/noel.goebbeler/uni/programmierkurs_2/kw02/cs/bin/Debug/net10.0/cs
+/Users/noel.goebbeler/uni/programmierkurs_2/kw02/cs/bin/Debug/net10.0/cs.deps.json
+/Users/noel.goebbeler/uni/programmierkurs_2/kw02/cs/bin/Debug/net10.0/cs.runtimeconfig.json
+/Users/noel.goebbeler/uni/programmierkurs_2/kw02/cs/bin/Debug/net10.0/cs.dll
+/Users/noel.goebbeler/uni/programmierkurs_2/kw02/cs/bin/Debug/net10.0/cs.pdb
+/Users/noel.goebbeler/uni/programmierkurs_2/kw02/cs/obj/Debug/net10.0/cs.dll
+/Users/noel.goebbeler/uni/programmierkurs_2/kw02/cs/obj/Debug/net10.0/refint/cs.dll
+/Users/noel.goebbeler/uni/programmierkurs_2/kw02/cs/obj/Debug/net10.0/cs.pdb
+/Users/noel.goebbeler/uni/programmierkurs_2/kw02/cs/obj/Debug/net10.0/cs.genruntimeconfig.cache
+/Users/noel.goebbeler/uni/programmierkurs_2/kw02/cs/obj/Debug/net10.0/ref/cs.dll
