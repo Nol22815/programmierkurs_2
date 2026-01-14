@@ -1,0 +1,15 @@
+/Users/noel.goebbeler/uni/programmierkurs_2/kw03/bin/Debug/net10.0/kw03
+/Users/noel.goebbeler/uni/programmierkurs_2/kw03/bin/Debug/net10.0/kw03.deps.json
+/Users/noel.goebbeler/uni/programmierkurs_2/kw03/bin/Debug/net10.0/kw03.runtimeconfig.json
+/Users/noel.goebbeler/uni/programmierkurs_2/kw03/bin/Debug/net10.0/kw03.dll
+/Users/noel.goebbeler/uni/programmierkurs_2/kw03/bin/Debug/net10.0/kw03.pdb
+/Users/noel.goebbeler/uni/programmierkurs_2/kw03/obj/Debug/net10.0/kw03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noel.goebbeler/uni/programmierkurs_2/kw03/obj/Debug/net10.0/kw03.AssemblyInfoInputs.cache
+/Users/noel.goebbeler/uni/programmierkurs_2/kw03/obj/Debug/net10.0/kw03.AssemblyInfo.cs
+/Users/noel.goebbeler/uni/programmierkurs_2/kw03/obj/Debug/net10.0/kw03.csproj.CoreCompileInputs.cache
+/Users/noel.goebbeler/uni/programmierkurs_2/kw03/obj/Debug/net10.0/kw03.sourcelink.json
+/Users/noel.goebbeler/uni/programmierkurs_2/kw03/obj/Debug/net10.0/kw03.dll
+/Users/noel.goebbeler/uni/programmierkurs_2/kw03/obj/Debug/net10.0/refint/kw03.dll
+/Users/noel.goebbeler/uni/programmierkurs_2/kw03/obj/Debug/net10.0/kw03.pdb
+/Users/noel.goebbeler/uni/programmierkurs_2/kw03/obj/Debug/net10.0/kw03.genruntimeconfig.cache
+/Users/noel.goebbeler/uni/programmierkurs_2/kw03/obj/Debug/net10.0/ref/kw03.dll
