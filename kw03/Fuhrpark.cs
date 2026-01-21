@@ -2,13 +2,15 @@ using CustomLinkedList;
 using Autos;
 namespace FuhrparkNP
 {
-    class Fuhrpark
+    public class Fuhrpark
     {
         public CustomLinkedList.LinkedList<Auto> Autos = new ();
 
         public void Aufnehmen(Auto a)
         {
             Autos.AddFirst(a);
+            autoHinzufuegenEvent(this, new NewAutoAddedArgs(a));
+
         }
 
         public void Inventur()
@@ -32,5 +34,7 @@ namespace FuhrparkNP
             }
             return Alter / count;
         }
+        public delegate void AutoHinzufuegenEventHandler(object sender, NewAutoAddedArgs arg);
+        public event AutoHinzufuegenEventHandler autoHinzufuegenEvent;
     }
 }

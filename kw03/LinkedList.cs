@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 
 namespace CustomLinkedList
 {
-    class LinkedList<T>
+    public class LinkedList<T>
     {
         Node? head = null;
         int Size = 0;

@@ -2,7 +2,7 @@ using System;
 
 namespace Autos
 {
-    class Auto
+   public class Auto
     {
         public String Hersteller;
         public int Baujahr{set;get;}
